@@ -20,3 +20,15 @@
 18) Habilitar o automatico, será criado o App com o enderço e é so acessar
 19) Para apagar um app, ir em settings, escolher a opção delete e será solicitado o nome do app a ser deleta.
 20) Para deletar o Repositorio é o mesmo procedimento , ir em settings e escolher a opção delete
+
+=== Criando por linha de comando
+1) Crei a estrutura de arquivo onde irá ficar o seu codigo
+2) Crie um repositorio no Git
+3) Entre no CMD no diretorio
+     Selecione o caminho todo onde vai estar os arquivos e ao estar no caminho digite CMD, 
+     Você vai ser direcionado direto para o caminho
+4) Digite git add. para criar a o git
+5) Digite um git status para verificar a estrutura do seu projeto 
+6) Digite o comando : git commit -m "Criando projeto <nome-do-projeto>", para commitar o projeto no git
+7) Digite o comando :  git push --set-upstream origin master, para criar a estrutura da main no git
+     
