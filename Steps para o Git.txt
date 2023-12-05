@@ -1,0 +1,22 @@
+1) Crei a estrutura de arquivo onde irá ficar o seu codigo
+2) Crie um repositorio no Git
+3) Entre no CMD no diretorio
+     Selecione o caminho todo onde vai estar os arquivos e ao estar no caminho digite CMD, 
+     Você vai ser direcionado direto para o caminho
+4) Digite git init para inicializar o git nesse local
+5) Digite git remote add origin https://github.com/dilmatos/<nome-do-repositorio>.git        
+6) No CMD digite code . --> você vai ser direcionado para o vs code
+7) Começe a escrever ou fazer alterações no codigo
+8) No lado esquerdo vai no desenho da engrenagem para abrir as alterações
+9) Selecione o + para selecionar os itens que deseja alterar
+10) Nesse momento será alterado o step para stage changes
+11) Selecione o Commit, mas coloque um comentario para poder seguir
+12) Caso o Git não reconheça automaticamente o commit, vc deve dat um push
+13) Ir até o Git e dar um reflesh na pagina para aparecer as alterações.
+14) No Heroku, selecione o New para criar um app ou pipeline (nosso caso app)
+15) Passe o nome do app
+16) Fazer a associação com o Git
+17) Escolher o repositorio que iremos associar e clicar em conectar
+18) Habilitar o automatico, será criado o App com o enderço e é so acessar
+19) Para apagar um app, ir em settings, escolher a opção delete e será solicitado o nome do app a ser deleta.
+20) Para deletar o Repositorio é o mesmo procedimento , ir em settings e escolher a opção delete
